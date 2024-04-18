@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppWeather</string>
+    <string name="current_temperature">%1$.1f°C</string>
+    <string name="weather_icon_description">Иконка погоды</string>
+    <string name="temperature_range">Max: %1$.1f°C, Min: %2$.1f°C</string>
+    <string name="weather_condition_image">Weather condition image</string>
+    <string name="temperature_format">°C</string>
+
+
+</resources>
